@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
-	<h2>Section 39</h2>
+	<h2>Section 39 - Jenkins job to build an image onto ansible</h2>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
